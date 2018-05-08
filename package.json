@@ -1,0 +1,14 @@
+{
+  "name": "leet_code",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SherryQueen/LeetCode.git"
+  },
+  "author": "56",
+  "homepage": "https://github.com/SherryQueen/LeetCode#readme",
+  "devDependencies": {
+    "babel-eslint": "^8.2.3",
+    "eslint": "^4.19.1"
+  }
+}
