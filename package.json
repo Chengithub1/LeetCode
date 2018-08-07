@@ -9,6 +9,7 @@
   "homepage": "https://github.com/SherryQueen/LeetCode#readme",
   "devDependencies": {
     "babel-eslint": "^8.2.3",
+    "chai": "^4.1.2",
     "eslint": "^4.19.1"
   }
 }
